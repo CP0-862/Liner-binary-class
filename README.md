@@ -1,0 +1,2 @@
+# Liner-binary-class
+class
